@@ -1,0 +1,4 @@
+---
+# tasks file for bootiso
+  - name: Tasks for base play
+    include_tasks: mk_bootiso.yml
